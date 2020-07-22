@@ -1,4 +1,4 @@
-### Hi there, I'm Sagor Ahamed ! 👋
+### Hi, I'm Sagor Ahamed ! 👋
 
 - 🔭 I’m currently working on some Android Projects.
 - 🌱 I’m currently learning Python, Android Stuio & Unity from Coursera & edx.
