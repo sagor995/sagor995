@@ -1,7 +1,7 @@
 ### Hi, I'm Sagor Ahamed ! 👋
 
 - 🔭 I’m currently working on some Android Projects.
-- 🌱 I’m currently learning Python, Android Stuio & Unity from Coursera & edx.
+- 🌱 I’m currently learning Java, Python, Android Stuio & Unity from Coursera & edx.
 - 📫 How to reach me:[Facebook-@sagor995](https://www.facebook.com/sagor995) [Linkedin-@sagor59](https://www.linkedin.com/in/sagor59/)   [Instagram-@appsdevsa](https://www.instagram.com/appsdevsa/)
 - 😄 View my verified achievement from Coursera!
 <figure>
