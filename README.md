@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Sagor Ahamed ! 👋
+Hi, I'm Sagor Ahamed ! 👋
 #### Apps Developer
 
 <figure>
