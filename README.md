@@ -1,11 +1,10 @@
 ### Hi there 👋, Hi, I'm Sagor Ahamed ! 👋
 #### Apps Developer
-![Apps Developer](
+
 <figure>
   <img src="google-it-automation-professional-certificate.png" alt="Google IT Automation Professional Certificate" style="width:20%">
   <a href="https://www.youracclaim.com/badges/8e21ce57-2e3f-44c2-930a-27c2ead635d0/public_url"><figcaption>Fig. - Google IT Automation Professional Certificate.</figcaption></a>
 </figure>
-)
 
 Experienced Mobile Application Developer. Skilled in Mobile Application Development(Android Studio & Unity), Microsoft Word, Python, Java, C#, SQL, HTML, CSS and PHP. Strong engineering professional with a Bachelor of Science - B.Sc focused in Computer Science and Engineering from Ahsanullah University of Science and Technology.
 
