@@ -1,17 +1,17 @@
 Hi, I'm Sagor Ahamed ! 👋
-#### Apps Developer
+#### Game Developer
 
 <figure>
   <img src="google-it-automation-professional-certificate.png" alt="Google IT Automation Professional Certificate" style="width:20%">
   <a href="https://www.youracclaim.com/badges/8e21ce57-2e3f-44c2-930a-27c2ead635d0/public_url"><figcaption>Fig. - Google IT Automation Professional Certificate.</figcaption></a>
 </figure>
 
-Experienced Mobile Application Developer. Skilled in Mobile Application Development(Android Studio & Unity), Microsoft Word, Python, Java, C#, SQL, HTML, CSS and PHP. Strong engineering professional with a Bachelor of Science - B.Sc focused in Computer Science and Engineering from Ahsanullah University of Science and Technology.
+A Masters Graduate of Games and Extended Reality from the University of Salford with two years experience as a mobile application developer, focusing on Android Studio (Java) and SQLite. Bringing extra experience of web development projects, Django (Python) to Laravel, and building core websites using PHP, MySQL, and JavaScript, I have worked with Tailwind and React.js, all in pursuit of bringing digital ideas to life. I'm currently looking for a role in game development or software development where I can use my skills in Unity, C# and multiplayer networks (Photon).
 
-Skills: JAVA / Python / PHP / Android Studio / Unity 
+Skills: C# / Python / PHP / Android Studio / Unity / VR
 
-- 🔭 I’m currently working on Web Application Projects 
-- 🌱 I’m currently learning JavaScript, React JS & Django 
+- 🔭 I’m currently working on VR Game Projects 
+- 🌱 I’m currently learning VR, AR And MR with AI. 
 - 💬 Ask me about Web & Apps Development 
 - ⚡ Fun fact: View my verified achievement from Coursera! 
 
