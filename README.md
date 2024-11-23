@@ -1,5 +1,5 @@
 Hi, I'm Sagor Ahamed ! 👋
-#### Game Developer
+#### Application Developer
 
 <figure>
   <img src="google-it-automation-professional-certificate.png" alt="Google IT Automation Professional Certificate" style="width:20%">
