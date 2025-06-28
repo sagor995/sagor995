@@ -1,7 +1,7 @@
 # Hi, I'm Sagor Ahamed! 👋  
 #### 🎮 Application & Game Developer | XR | AI
 
-![Google IT Automation Certificate](google-it-automation-professional-certificate.png){:width="150"}
+![Google IT Automation Certificate](google-it-automation-professional-certificate.png)
 
 **[Verified Certificate »](https://www.youracclaim.com/badges/8e21ce57-2e3f-44c2-930a-27c2ead635d0/public_url)**
 
