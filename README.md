@@ -24,7 +24,7 @@ I began my career building mobile apps using **Android Studio (Java)** and **MyS
 - 🔭 Working on immersive VR Game Projects  
 - 🌱 Exploring AR/MR integrations and AI-driven XR systems  
 - 💬 Open to collaboration in game, web, or XR app development  
-- ⚡ Fun Fact: I have verified Coursera & Google certifications!
+- ⚡ I have verified Coursera & Google certifications!
 
 ---
 
