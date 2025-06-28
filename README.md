@@ -1,9 +1,12 @@
 # Hi, I'm Sagor Ahamed! 👋  
 #### 🎮 Application & Game Developer | XR | AI
 
-![Google IT Automation Certificate](google-it-automation-professional-certificate.png)
-
-**[Verified Certificate »](https://www.youracclaim.com/badges/8e21ce57-2e3f-44c2-930a-27c2ead635d0/public_url)**
+<figure>
+  <img src="google-it-automation-professional-certificate.png" alt="Google IT Automation Professional Certificate" width="150">
+  <figcaption>
+    <a href="https://www.youracclaim.com/badges/8e21ce57-2e3f-44c2-930a-27c2ead635d0/public_url">Google IT Automation Professional Certificate</a>
+  </figcaption>
+</figure>
 
 ---
 
@@ -35,21 +38,21 @@ I began my career building mobile apps using **Android Studio (Java)** and **MyS
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/sagor995)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/sagor59/)  
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/sagor995)  
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/appsdevsa/)  
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg)](https://www.youtube.com/channel/UC9_ox9Gd-XVdmqFAdnI6G2w)  
-[![Website](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)](https://sagorahamed.com)  
-[![Google Play](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg)](https://play.google.com/store/apps/dev?id=6862428975223688655)  
-[![Blog](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg)](https://rtesbd.blogspot.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sagor995)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sagor59/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sagor995)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/appsdevsa/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC9_ox9Gd-XVdmqFAdnI6G2w)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sagorahamed.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg' alt='googleplay' height='40'>](https://play.google.com/store/apps/dev?id=6862428975223688655)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://rtesbd.blogspot.com/)
 
 ---
 
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagor995&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagor995&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagor995&show_icons=true)
 
 ---
 
