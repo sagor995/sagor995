@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://sagorahamed.com/logo/logo.png" alt="Sagor Logo" width="100"/>
+</p>
+
 # 👋 Hi, I'm Sagor Ahamed  
 🎮 Game Developer | XR Enthusiast | Creative Technologist  
 
