@@ -6,9 +6,15 @@ Hi, I'm Sagor Ahamed ! 👋
   <a href="https://www.youracclaim.com/badges/8e21ce57-2e3f-44c2-930a-27c2ead635d0/public_url"><figcaption>Fig. - Google IT Automation Professional Certificate.</figcaption></a>
 </figure>
 
-A Masters Graduate of Games and Extended Reality from the University of Salford with two years experience as a mobile application developer, focusing on Android Studio (Java) and SQLite. Bringing extra experience of web development projects, Django (Python) to Laravel, and building core websites using PHP, MySQL, and JavaScript, I have worked with Tailwind and React.js, all in pursuit of bringing digital ideas to life. I'm currently looking for a role in game development or software development where I can use my skills in Unity, C# and multiplayer networks (Photon).
+A Game Developer with an M.Sc. in Games and Extended Reality from the University of Salford, focusing on Unity, AI, and VR development. I began my career building mobile games and apps using Android Studio (Java) and MySQL, and later expanded into web development with PHP, MySQL, Django, and Laravel.
 
-Skills: C# / Python / PHP / Android Studio / Unity / VR
+Currently, I specialize in creating immersive experiences in Unity, integrating AI systems, and developing VR projects. Until two months ago, I worked as a Technical Demonstrator at the University of Salford, where I provided hands-on support to students and staff in game design and VR/AR technologies. My role involved assisting with practical projects, managing VR equipment and gaming systems, and supporting lecturers to deliver smooth, engaging sessions.
+
+I have recently started a new role as a Graduate CAVE Intern at Wigan and Leigh College, contributing to the development of immersive and interactive learning environments using cutting-edge virtual reality technologies.
+
+I’m now seeking a full-time opportunity in game development or immersive technology where I can combine my technical skills and creativity to build innovative and impactful experiences.
+
+Skills: C# / Python / Android Studio / Unity & Unreal / VR
 
 - 🔭 I’m currently working on VR Game Projects 
 - 🌱 I’m currently learning VR, AR And MR with AI. 
