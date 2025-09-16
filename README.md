@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://sagorahamed.com/logo/logo.png" alt="Sagor Logo" width="100"/>
-</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=53BDFF&center=true&vCenter=true&lines=👋Hi%2C+I'm+Sagor+Ahamed!;🎮+Game+Developer+%7C+XR+Enthusiast;Creative+Technologist;Always+Learning+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 ---
