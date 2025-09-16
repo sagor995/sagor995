@@ -86,3 +86,8 @@ I began my journey with **mobile game development** (Android Studio & Java), exp
 <a href="https://stars.github.com/">
   <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35" />
 </a>
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=sagor995&color=blue)
+
