@@ -62,8 +62,7 @@ I began my journey with **mobile game development** (Android Studio & Java), exp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagor995&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagor995&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sagor995&theme=default)
-![Snake animation](https://github.com/sagor995/sagor995/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
