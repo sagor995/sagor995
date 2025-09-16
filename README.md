@@ -89,5 +89,5 @@ I began my journey with **mobile game development** (Android Studio & Java), exp
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=sagor995&color=blue)
+
 
