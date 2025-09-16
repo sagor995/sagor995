@@ -48,9 +48,13 @@ I began my journey with **mobile game development** (Android Studio & Java), exp
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Featured Projects  
 
-Coming soon...
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Quiz Quest](https://sagorahamed.com/quizquest.php) | 🎮 A 3-lane XR endless runner with quiz challenges (Igloo CAVE ready). | Unity, Igloo Toolkit |
+| [SalClone](https://sagorahamed.com/sc.php) | 🏫 Digital twin campus game (Unreal Engine 5). | Unreal, Digital Twin |
+| [iBill Manager](https://play.google.com/store/apps/details?id=com.sagorahamed.ibill_manager) | 📱 ISP bill management app. | Flutter, SQLite |
 
 ---
 
