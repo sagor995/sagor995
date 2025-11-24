@@ -29,16 +29,16 @@ Every project I work on teaches me something new — and that’s what keeps me 
 
 ---
 
-### 🧰 Skills & Tools
+### 🧰 What I Work With
 
 **Languages:**  
-`C#` • `Python` • `Java` • `PHP` • `SQL`
+`C#` • `Python` • `Java` • `PHP` • `SQL` • `Dart`
 
 **Game & XR Engines:**  
 `Unity` • `Unreal Engine` • `VR/AR/XR (Meta, Igloo)`
 
 **Dev Tools & Frameworks:**  
-`Android Studio` • `Django` • `Laravel` • `Tailwind CSS` • `React` • `Git/GitHub`
+`Android Studio` • `SQLite` • `Flutter` • `Tailwind CSS` • `React` • `Igloo Toolkit` • `Git/GitHub` • `OptiTrack` • `Spout`
 
 ---
 
