@@ -10,16 +10,22 @@ Google IT Automation with Python – Verified Credential
 
 ---
 
-### 🚀 About Me
+### 🌟 About Me
 
-I'm a passionate game developer with an **M.Sc. in Games and Extended Reality** from the **University of Salford**.  
-I specialize in building immersive experiences using **Unity**, **Unreal Engine**, **VR**, and **AI systems**.
+I’m a game developer who loves exploring new ways to blend technology, creativity, and storytelling.
+I completed my MSc in Games & Extended Reality at the University of Salford, and since then, I’ve been deeply involved in building:
+- XR learning experiences  
+- Digital twins
+- Interactive environments
+- VR/AR experiments
+- Multi-display Igloo CAVE projects
 
-I began my journey with **mobile game development** (Android Studio & Java), expanded into **web development** (Laravel, Django), and now focus on crafting cutting-edge **VR/AR learning environments**.
+My journey started with mobile dev, grew into web dev, and eventually pulled me fully into immersive technologies.
+Every project I work on teaches me something new — and that’s what keeps me going.
 
-- 🎓 Former Technical Demonstrator @ University of Salford  
-- 💼 Currently: Graduate CAVE Intern @ Wigan and Leigh College  
-- 🛠️ Building future-ready XR educational projects and experiences  
+- 💼 Currently a Graduate CAVE Intern @ Wigan & Leigh College
+- 🎓 Former Technical Demonstrator @ University of Salford
+- 🛠️ Passionate about making learning more interactive and fun 
 
 ---
 
