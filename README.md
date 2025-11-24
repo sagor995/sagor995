@@ -2,10 +2,11 @@
 
 ---
 
+🎓 Certifications
 <img src="google-it-automation-professional-certificate.png" alt="Google IT Automation Certificate" width="120"/>
-<a href="https://www.youracclaim.com/badges/8e21ce57-2e3f-44c2-930a-27c2ead635d0/public_url">
-  <em>Google IT Automation with Python – Verified Credential</em>
-</a>
+
+Google IT Automation with Python – Verified Credential
+<a href="https://www.youracclaim.com/badges/8e21ce57-2e3f-44c2-930a-27c2ead635d0/public_url">View Credential</a>
 
 ---
 
