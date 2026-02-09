@@ -63,7 +63,7 @@ Every project I work on teaches me something new — and that’s what keeps me 
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagor995&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagor995&layout=compact)](https://github.com/sagor995/github-readme-stats)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagor995&show_icons=true&theme=default)
 
 
