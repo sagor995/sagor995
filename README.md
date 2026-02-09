@@ -59,14 +59,6 @@ Every project I work on teaches me something new — and that’s what keeps me 
 | [SalClone](https://sagorahamed.com/sc.php) | 🏫 Digital twin campus game (Unreal Engine 5). | Unreal, Digital Twin |
 | [iBill Manager](https://play.google.com/store/apps/details?id=com.sagorahamed.ibill_manager) | 📱 ISP bill management app. | Flutter, SQLite |
 
----
-
-### 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagor995&layout=compact)](https://github.com/sagor995/github-readme-stats)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagor995&show_icons=true&theme=default)
-
-
 
 ---
 
