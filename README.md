@@ -38,7 +38,7 @@ Five titles, all live:
 |---------|-----------|-------|--------|
 | [Quiz Quest Suite](https://github.com/sagor995/quiz-quest-multiplayer) | 5 XR educational games, live in FE curriculum — CAVE, VR, MR, browser | Unity · Igloo · Meta Quest 3 · Firebase | ✅ Live |
 | [Salford Campus Crisis](https://sagorahamed.com/project.php?slug=salford-campus-crisis-a-zombie-survival-game) | Third-person zombie survival game — MSc team project, University of Salford | Unity · C# · TPS · AI NPCs | ✅ Complete |
-| [iBill Manager](https://play.google.com/store/apps/details?id=com.sagorahamed.ibill_manager) | ISP billing & operations app, offline-first architecture | Flutter · Dart · SQLite | ✅ Play Store |
+| [iBill Manager](https://sagorahamed.com/project.php?slug=ibillmanager) | ISP billing & operations app, offline-first architecture | Flutter · Dart · SQLite | ✅ [Google Play](https://play.google.com/store/apps/details?id=com.sagorahamed.ibill_manager) · [App Store](https://apps.apple.com/gb/app/ibillmanager-isp-billing/id6760230295) |
 
 Full archive: [sagorahamed.com/projects.php](https://sagorahamed.com/projects.php)
 
