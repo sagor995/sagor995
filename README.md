@@ -2,7 +2,7 @@
 
 **Digital Innovation Technician · Unity & XR Developer · Manchester, UK**
 
-I build immersive learning experiences — games that run inside 360° 
+I build immersive learning experiences games that run inside 360° 
 projection rooms, on VR headsets, and in students' browsers at the same 
 time. Currently shipping XR curriculum tools at Wigan & Leigh College, 
 where the work runs in actual lessons with actual students.
@@ -16,17 +16,17 @@ in industry as a backend and mobile developer.
 
 ## What I'm Currently Building
 
-**Quiz Quest Suite** — a series of five Unity XR educational games deployed 
+**Quiz Quest Suite** a series of five Unity XR educational games deployed 
 in live FE curriculum. Runs on Igloo CAVE (360° projection), Meta Quest 3 
 (MR passthrough), and phone browsers simultaneously. Students join via QR 
-code — no app install. Sessions generate automatic PDF reports per player.
+code, no app install. Sessions generate automatic PDF reports per player.
 
 Five titles, all live:
-- Quiz Quest CAVE — endless runner format, Igloo 360° projection
-- Quiz Quest VR — Meta Quest headset, standalone
-- Quiz Quest: Local Multiplayer — 4–6 controllers, real-time scoring, CAVE
-- Quiz Quest MR Multiplayer — Meta Quest 3 passthrough, multiplayer
-- Hospitality QUIZ — employability skills, Igloo CAVE, FE curriculum
+- Quiz Quest CAVE endless runner format, Igloo 360° projection
+- Quiz Quest VR Meta Quest headset, standalone
+- Quiz Quest: Local Multiplayer 4–6 controllers, real-time scoring, CAVE
+- Quiz Quest MR Multiplayer Meta Quest 3 passthrough, multiplayer
+- Hospitality QUIZ employability skills, Igloo CAVE, FE curriculum
 
 → [See the repo](https://github.com/sagor995/quiz-quest-multiplayer) · 
 [Full writeup](https://sagorahamed.com/project.php?slug=quiz-quest-local-multiplayer-edition)
@@ -39,7 +39,7 @@ Five titles, all live:
 |---------|-----------|-------|--------|
 | [Quiz Quest Suite](https://github.com/sagor995/quiz-quest-multiplayer) | 5 XR educational games, live in FE curriculum | Unity · Igloo · Meta Quest 3 · Firebase | ✅ Live |
 | [iBill Manager](https://play.google.com/store/apps/details?id=com.sagorahamed.ibill_manager) | ISP billing & operations app, offline-first | Flutter · Dart · SQLite | ✅ Play Store |
-| [Ummah Guide](https://sagorahamed.com/project.php?slug=ummah-guide) | Muslim prayer times, Quran, Qibla — all-in-one | Android · Custom Stack | ✅ Play Store |
+| [Ummah Guide](https://sagorahamed.com/project.php?slug=ummah-guide) | Muslim prayer times, Quran, Qibla all-in-one | Android · Custom Stack | ✅ Play Store |
 | [Salford Campus Crisis](https://sagorahamed.com/project.php?slug=salford-campus-crisis-a-zombie-survival-game) | Third-person zombie survival, Salford campus | Unity · C# | ✅ Complete |
 
 Full project archive: [sagorahamed.com/projects.php](https://sagorahamed.com/projects.php)
