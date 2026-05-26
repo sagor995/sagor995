@@ -32,17 +32,15 @@ Five titles, all live:
 [Full writeup](https://sagorahamed.com/project.php?slug=quiz-quest-local-multiplayer-edition)
 
 ---
-
 ## Selected Projects
 
 | Project | What it is | Stack | Status |
 |---------|-----------|-------|--------|
-| [Quiz Quest Suite](https://github.com/sagor995/quiz-quest-multiplayer) | 5 XR educational games, live in FE curriculum | Unity · Igloo · Meta Quest 3 · Firebase | ✅ Live |
-| [iBill Manager](https://play.google.com/store/apps/details?id=com.sagorahamed.ibill_manager) | ISP billing & operations app, offline-first | Flutter · Dart · SQLite | ✅ Play Store |
-| [Ummah Guide](https://sagorahamed.com/project.php?slug=ummah-guide) | Muslim prayer times, Quran, Qibla — all-in-one | Android · Custom Stack | ✅ Play Store |
-| [Salford Campus Crisis](https://sagorahamed.com/project.php?slug=salford-campus-crisis-a-zombie-survival-game) | Third-person zombie survival, Salford campus | Unity · C# | ✅ Complete |
+| [Quiz Quest Suite](https://github.com/sagor995/quiz-quest-multiplayer) | 5 XR educational games, live in FE curriculum — CAVE, VR, MR, browser | Unity · Igloo · Meta Quest 3 · Firebase | ✅ Live |
+| [Salford Campus Crisis](https://sagorahamed.com/project.php?slug=salford-campus-crisis-a-zombie-survival-game) | Third-person zombie survival game — MSc team project, University of Salford | Unity · C# · TPS · AI NPCs | ✅ Complete |
+| [iBill Manager](https://play.google.com/store/apps/details?id=com.sagorahamed.ibill_manager) | ISP billing & operations app, offline-first architecture | Flutter · Dart · SQLite | ✅ Play Store |
 
-Full project archive: [sagorahamed.com/projects.php](https://sagorahamed.com/projects.php)
+Full archive: [sagorahamed.com/projects.php](https://sagorahamed.com/projects.php)
 
 ---
 
