@@ -6,10 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=sagor995&color=blue&style=flat-square&label=Profile+Views" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sagor995&color=blue&style=flat-square&label=Profile+Views" alt="profile views" />
-</p>
-
 ---
 
 I build immersive learning experiences — games that run inside 360° projection rooms, on VR headsets, and in students' browsers at the same time. Currently shipping XR curriculum tools at Wigan & Leigh College, where the work runs in actual lessons with actual students.
