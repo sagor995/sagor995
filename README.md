@@ -1,4 +1,10 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Sagor%20Ahamed&fontSize=48&fontColor=fff&fontAlignY=36&desc=Digital%20Innovation%20Technician%20%C2%B7%20Unity%20%26%20XR%20Developer&descAlignY=56&descSize=17)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sagor%20Ahamed&fontSize=50&fontColor=fff&fontAlignY=35&desc=Digital%20Innovation%20Technician&descAlignY=55&descSize=18)
+<h1 align="center">Sagor Ahamed</h1>
+<p align="center">
+  <strong>Digital Innovation Technician · Unity & XR Developer · Manchester, UK</strong>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sagor995&color=blue&style=flat-square&label=Profile+Views" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sagor995&color=blue&style=flat-square&label=Profile+Views" alt="profile views" />
